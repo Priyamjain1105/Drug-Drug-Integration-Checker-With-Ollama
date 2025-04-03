@@ -42,7 +42,7 @@ Generative AI refers to artificial intelligence models capable of generating **n
 
 ## 🎬 Project Demo
 📹 <div align="center">
-  <img src="https://github.com/user-attachments/assets/35249e74-04fa-489f-9d76-5d11278b858c" alt=" Banner" />
+  <img width = 500 src="https://github.com/user-attachments/assets/35249e74-04fa-489f-9d76-5d11278b858c" alt=" Banner" />
 </div>
 
 ---
