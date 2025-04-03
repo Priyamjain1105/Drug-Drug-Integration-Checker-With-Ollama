@@ -131,14 +131,6 @@ Want to contribute? Fork & PR are welcome! 🎉
 ## 📜 License
 MIT License © 2025
 
----
-
-## 📧 Contact
-📌 **Project Maintainer:** [Your Name]  
-📌 **Email:** your.email@example.com  
-📌 **GitHub:** [Your GitHub Profile](https://github.com/your-username/)  
-
----
 
 ⭐ **If you liked this project, give it a star!** ⭐
 
