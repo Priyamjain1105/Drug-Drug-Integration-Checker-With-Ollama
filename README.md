@@ -123,6 +123,7 @@ Output:
 💡 This project is a team effort! Special thanks to the following contributors:
 
 Priyam Jain 23BAI11158
+Anshika Garg 23BAI10144
 
 Want to contribute? Fork & PR are welcome! 🎉
 
