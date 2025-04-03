@@ -1,5 +1,8 @@
 # 🚀 Drug Interaction Analysis Using Generative AI
 
+![9plrwo](https://github.com/user-attachments/assets/671b9bb9-c688-4883-8133-b9bee3efc545)
+
+
 ![Flask](https://img.shields.io/badge/Flask-1.1.2-blue.svg?logo=flask)  
 ![Ollama](https://img.shields.io/badge/Ollama-AI-orange)  
 ![Python](https://img.shields.io/badge/Python-3.9-green.svg?logo=python)  
@@ -40,8 +43,8 @@ Generative AI refers to artificial intelligence models capable of generating **n
 ---
 
 ## 🎬 Project Demo
-📹 
-https://github.com/user-attachments/assets/e6fd86f3-627a-44e0-b3fb-335ade1cf2ad
+📹 ![Uploading 9plrwo.gif…]()
+
 
 
 
