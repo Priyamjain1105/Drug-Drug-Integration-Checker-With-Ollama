@@ -122,7 +122,12 @@ Output:
 
 💡 This project is a team effort! Special thanks to the following contributors:
 
-Priyam Jain 23BAI11158
+- [@anshikagarg12](https://github.com/anshikagarg12)
+- [@Divyakiran-create](https://github.com/Divyakiran-create)
+- [@Keshav577-coder](https://github.com/Keshav577-coder)
+- [@s7anushka](https://github.com/s7anushka)
+
+---
 
 Want to contribute? Fork & PR are welcome! 🎉
 
