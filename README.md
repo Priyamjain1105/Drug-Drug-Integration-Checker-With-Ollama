@@ -1,10 +1,9 @@
 # 🚀 Drug Interaction Analysis Using Generative AI
-![c79e620557e7b11bbe80cadd3e1aa7bb](https://github.com/user-attachments/assets/e3df4453-4cc7-4d0d-9755-c022a2dbcf1f)
 
-
-![Flask](https://img.shields.io/badge/Flask-1.1.2-blue.svg?logo=flask)  
-![Ollama](https://img.shields.io/badge/Ollama-AI-orange)  
-![Python](https://img.shields.io/badge/Python-3.9-green.svg?logo=python)  
+![Flask](https://img.shields.io/badge/Flask-1.1.2-blue.svg?logo=flask)  ![Ollama](https://img.shields.io/badge/Ollama-AI-orange)  ![Python](https://img.shields.io/badge/Python-3.9-green.svg?logo=python)  
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e3df4453-4cc7-4d0d-9755-c022a2dbcf1f" alt=" Banner" />
+</div>
 
 ## 📌 Overview
 This project leverages **Generative AI** to analyze drug interactions and assess their severity. By integrating **Flask**, **Ollama AI**, and a **beautiful UI**, users can input two drug names and receive AI-generated insights regarding:
@@ -42,10 +41,9 @@ Generative AI refers to artificial intelligence models capable of generating **n
 ---
 
 ## 🎬 Project Demo
-📹 ![Uploading 9plrwo.gif…]()
-
-
-
+📹 <div align="center">
+  <img src="https://github.com/user-attachments/assets/35249e74-04fa-489f-9d76-5d11278b858c" alt=" Banner" />
+</div>
 
 ---
 
