@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: pymysqls
+Version: 5.1.2
+Requires-Dist: PyMySQL
+Requires-Dist: mysql-connector-python
+Requires-Dist: mysqlclient
+

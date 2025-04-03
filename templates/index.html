@@ -1,0 +1,90 @@
+{% extends 'base.html' %}
+
+{% block title %}Home - Drug Interaction Checker{% endblock %}
+
+{% block content %}
+<h2 class="title">Welcome to Drug Interaction Checker</h2>
+<p class="subtitle">Enter two drugs to check for interactions.</p>
+
+<div class="form-container">
+
+    <h2>Check Drug Interactions</h2>
+    <form id="drug-form" action="submit" method="post">
+        <label for="drug1">Enter Drug 1:</label>
+        <input type="text" id="drug1" name="drug1" required>
+
+        <label for="drug2">Enter Drug 2:</label>
+        <input type="text" id="drug2" name="drug2" required>
+
+        <input type="submit" value="check">
+    </form>
+
+
+</div>
+
+<style>
+    body {
+        font-family: 'Poppins', sans-serif;
+        background-color: #f4f4f9;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+    }
+
+    .title {
+        font-size: 2rem;
+        color: #333;
+        margin-top: 20px;
+    }
+
+    .subtitle {
+        font-size: 1.2rem;
+        color: #666;
+        margin-bottom: 20px;
+    }
+
+    .form-container {
+        background: white;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        max-width: 400px;
+        margin: auto;
+    }
+
+    input {
+        width: 100%;
+        padding: 10px;
+        margin: 10px 0;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        font-size: 1rem;
+    }
+
+    .check-btn {
+        background: #007BFF;
+        color: white;
+        border: none;
+        padding: 10px;
+        border-radius: 5px;
+        font-size: 1rem;
+        cursor: pointer;
+        width: 100%;
+    }
+
+    .check-btn:hover {
+        background: #0056b3;
+    }
+
+    .result-container {
+        background: #e9f7ef;
+        padding: 15px;
+        border-radius: 10px;
+        margin-top: 20px;
+        color: #155724;
+        font-weight: bold;
+    }
+</style>
+
+
+{% endblock %}
