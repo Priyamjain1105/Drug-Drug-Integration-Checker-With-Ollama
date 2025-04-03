@@ -118,8 +118,13 @@ Output:
 
 ---
 
-## 🤝 Contributing
-We welcome contributions! Feel free to fork this repository and submit pull requests.  
+🤝 Contributors
+
+💡 This project is a team effort! Special thanks to the following contributors:
+
+Priyam Jain 23BAI11158
+
+Want to contribute? Fork & PR are welcome! 🎉
 
 ---
 
