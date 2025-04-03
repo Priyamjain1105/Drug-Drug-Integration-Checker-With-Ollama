@@ -1,6 +1,5 @@
 # 🚀 Drug Interaction Analysis Using Generative AI
-
-![9plrwo](https://github.com/user-attachments/assets/671b9bb9-c688-4883-8133-b9bee3efc545)
+![c79e620557e7b11bbe80cadd3e1aa7bb](https://github.com/user-attachments/assets/e3df4453-4cc7-4d0d-9755-c022a2dbcf1f)
 
 
 ![Flask](https://img.shields.io/badge/Flask-1.1.2-blue.svg?logo=flask)  
